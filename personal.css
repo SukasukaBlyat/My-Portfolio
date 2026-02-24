@@ -1,0 +1,35 @@
+p{
+
+    color: white;
+    background-color: black;
+    padding: 5px;
+    max-height: 1500px;
+
+}
+
+div #img1{
+
+    display: inline;
+    float: right;
+    height: 154.5px;
+
+}
+
+div #img2{
+
+    display: inline;
+    float: left;
+    max-height: 100.5px;
+
+}
+
+div #img3{
+
+    display: inline;
+    float: right;
+    max-height: 46px;
+
+}
+div #img1:hover, div #img2:hover, div #img3:hover {
+    text-decoration: underline;
+}
